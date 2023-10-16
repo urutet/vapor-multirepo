@@ -1,0 +1,6 @@
+[submodule "vapor-test-server"]
+	path = vapor-test-server
+	url = https://github.com/urutet/vapor-test-server.git
+[submodule "vapor-test-client"]
+	path = vapor-test-client
+	url = https://github.com/urutet/vapor-test-client.git
